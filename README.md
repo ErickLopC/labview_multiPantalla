@@ -1,0 +1,3 @@
+echo "Caracteristicas"         
+"Caracteristicas"         
+"Caracteristicas"         
